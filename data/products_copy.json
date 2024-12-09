@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0.26765688788734754",
+    "title": "Berserk: Volume 1",
+    "imageUrl": "https://libris.to/media/jacket/04238626_berserk-volume-1-the-black-swordsman.jpg",
+    "description": "by Kentaro Miura",
+    "price": "49.99"
+  },
+  {
+    "id": "0.5334378251940484",
+    "title": "Berserk: Volume 2",
+    "imageUrl": "https://libris.to/media/jacket/02750247_berserk.jpg",
+    "description": "by Kentaro Miura",
+    "price": "49.99"
+  }
+  {
+    "id": "0.5334378251940484",
+    "title": "Berserk: Volume 3",
+    "imageUrl": "https://libris.to/media/jacket/01348903_berserk.jpg",
+    "description": "by Kentaro Miura",
+    "price": "45"
+  }
+]
